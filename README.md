@@ -1,6 +1,6 @@
 # chubaofs-csi
 
-## Take over by atatcker - 0xlegendkiller
+## Take over by attacker - 0xlegendkiller
 
 ## POC here 
 # Proved
